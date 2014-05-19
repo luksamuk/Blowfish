@@ -11,7 +11,7 @@
 #ifndef __blowfish__
 #define __blowfish__
 
-#include <stdint.h>
+#include <cstdint>
 #include <cstddef>
 #include <string>
 
